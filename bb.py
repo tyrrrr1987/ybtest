@@ -34,3 +34,5 @@ n = rec1.match(r'''<html>     Hello {{ user }} </html> {% endfor %}''')
 print(n.group(2))
 
 mm = 'ss'
+
+bbs = 'new'
