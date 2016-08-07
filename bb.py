@@ -36,3 +36,6 @@ print(n.group(2))
 mm = 'ss'
 
 bbs = 'new'
+
+mg = 'mamamiya'
+ff = 'ff'
